@@ -1,4 +1,4 @@
-# USA-Housing-Porject
+# USA-Housing-Project
 ## This project consist of USA housing details and we predicted house price using Linear Regression Algorithm..
 ## Machine Learning Algorithm (Linear Regression)..
 ## Project Video..
